@@ -25,7 +25,7 @@ def test_classify_valid_image(classifier):
     output_dict = result.to_dict()
     print(output_dict)
     assert all(key in output_dict for key in [
-               "drawings", "hentai", "neutral", "porn", "sex"])
+               "drawings", "hentai", "neutral", "porn", "sexy"])
     assert all(isinstance(value, float) for value in output_dict.values())
 
 
