@@ -4,7 +4,7 @@ backports.tarfile==1.2.0
 email-validator==2.3.0
 fastapi==0.125.0
 fastapi-cli==0.0.16
-fastapi-cloud-cli==0.7.0
+fastapi-cloud-cli==0.8.0
 httptools==0.7.1
 importlib-metadata==8.0.0
 jaraco.collections==5.1.0
