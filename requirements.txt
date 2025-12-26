@@ -6,7 +6,7 @@ fastapi==0.125.0
 fastapi-cli==0.0.16
 fastapi-cloud-cli==0.7.0
 httptools==0.7.1
-importlib-metadata==8.0.0
+importlib-metadata==8.7.1
 jaraco.collections==5.1.0
 jinja2==3.1.6
 pillow==12.0.0
