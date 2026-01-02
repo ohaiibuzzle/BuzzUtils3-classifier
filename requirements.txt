@@ -14,7 +14,7 @@ platformdirs==4.2.2
 python-dotenv==1.2.1
 python-multipart==0.0.21
 pyyaml==6.0.3
-tomli==2.0.1
+tomli==2.3.0
 uvloop==0.22.1
 watchfiles==1.1.1
 websockets==15.0.1
